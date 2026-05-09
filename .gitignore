@@ -1,0 +1,16 @@
+# 虛擬環境（很大，不需要上傳）
+venv/
+
+# Chroma向量資料庫（之後會產生）
+chroma_db/
+
+# 環境變數（保護你的API Key）
+.env
+
+# Python快取
+__pycache__/
+*.pyc
+
+# Windows系統檔
+Thumbs.db
+desktop.ini
