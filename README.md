@@ -39,4 +39,4 @@ GROQ_API_KEY=你的Groq_API_Key
 python build_vectordb.py
 
 ### 6. 啟動應用程式
-streamlit run app.py
+streamlit run app_v1.py
