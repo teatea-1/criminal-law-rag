@@ -29,7 +29,7 @@ venv\Scripts\activate  # Windows
 source venv/bin/activate  # Mac/Linux
 
 ### 3. 安裝套件
-pip install -r requirements.txt
+pip install -r requirements_v1.txt
 
 ### 4. 設定 API Key
 建立 .env 檔案：
